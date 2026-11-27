@@ -1,7 +1,6 @@
 """Simple two-player Tic Tac Toe for the console."""
 
-GAME_TITLE = "Tic Tac Toe"
-
+GAME_TITLE = "=== TIC TAC TOE ==="
 WINNING_LINES = [
     (0, 1, 2), (3, 4, 5), (6, 7, 8),   # rows
     (0, 3, 6), (1, 4, 7), (2, 5, 8),   # columns
